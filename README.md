@@ -41,7 +41,7 @@ I build production AI agents, ML pipelines, and full-stack systems. Rising junio
 
 ## ⚡ Fun Fact
 
-Outside of code I analyze launch angle and spin rate data for Duke's varsity baseball team, tutor SAT students (avg. +80 points), and have qualified for the AIME three years running.
+Outside of coding, I love playing chess and sports. I've been a lifelong tennis player and recently, I have been getting into pickleball, basketball, and golf.
 
 ---
 
