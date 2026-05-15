@@ -17,10 +17,10 @@ I build production AI agents, ML pipelines, and full-stack systems. Rising junio
 
 ## 🌱 Currently Building & Learning
 
-- ML-driven computational models of early-stage influenza infection dynamics (Duke SWE)
-- Open scholarship data infrastructure and LLM-powered knowledge assistants (Krenzer Lab)
-- Genomic variant prioritization systems for NIH All of Us data (Cohen Lab)
-- Expanding DocRAG with better evaluation frameworks and retrieval accuracy
+- ML-driven influenza infection models with neural network-based parameter estimation (Duke SWE)
+- LLM-powered knowledge assistants and security-hardened data infrastructure (Krenzer Lab)
+- Genomic variant prioritization systems processing 10M+ variants from NIH All of Us (Cohen Lab)
+- Improving DocRAG retrieval accuracy and adding multi-document reasoning
 
 ---
 
@@ -41,7 +41,7 @@ I build production AI agents, ML pipelines, and full-stack systems. Rising junio
 
 ## ⚡ Fun Fact
 
-Outside of code I analyze baseball data for Duke's varsity team, tutor SAT students, and have qualified for the AIME three years running.
+Outside of code I analyze launch angle and spin rate data for Duke's varsity baseball team, tutor SAT students (avg. +80 points), and have qualified for the AIME three years running.
 
 ---
 
@@ -51,52 +51,56 @@ Outside of code I analyze baseball data for Duke's varsity team, tutor SAT stude
 
 **Duke University**  
 B.S. Computer Science and Mathematics · Minor in Finance · GPA 3.83 · Graduating May 2028  
-National Merit Scholar · AIME Qualifier 2023–2025
+National Merit Scholar · AIME Qualifier 2023–2025 (Top ~5% of AMC participants)
 
 ---
 
 ## 💼 Experience
 
-### **Duke University – Software Engineer**
+### **Duke University – Software Engineer** *(May 2026 – Present)*
 
-- Developing ML-driven computational models of influenza infection dynamics in Python
-- Processing 1,000+ patient trajectories through scalable data pipelines with ~85% predictive accuracy
+- Developing ML-driven computational models of early-stage influenza infection dynamics in Python, integrating neural network-based parameter estimation across 10+ distinct infection scenarios
+- Engineered data pipelines processing 1,000+ patient trajectories, cutting average model iteration time from ~6 hours to ~2 hours with ~85% predictive accuracy against empirical clinical data
 
-### **Krenzer Lab @ Duke Sanford School of Public Policy – Research Assistant**
+### **Krenzer Lab @ Duke Sanford School of Public Policy – Research Assistant** *(Apr 2026 – Present)*
 
-- Built LLM-powered knowledge assistants and Python ETL pipelines for 500+ researchers
-- Conducted security audits identifying 15+ vulnerabilities, implemented RBAC systems and log monitoring
+- Designed RBAC systems managing least-privilege access for 500+ researchers across 3+ repositories, achieving full FERPA compliance and remediating 15+ vulnerabilities including SQL injection and broken access controls
+- Built Python log monitoring pipelines with AES-256 encryption hardening, reducing incident detection time by ~40% across 10+ collaborative datasets
 
-### **Cohen Lab @ Duke School of Medicine – Research Assistant**
+### **Duke University Baseball – Data Analyst** *(Aug 2025 – Present)*
 
-- Architected ML pipelines in Python and R processing 10M+ genetic variants from NIH All of Us
-- Designed AI-based variant prioritization system across 500K+ patient records, reducing runtime by ~80%
+- Engineered Python and SQL pipelines analyzing 10+ metrics (launch angle, spin rate, defensive positioning), cutting manual preprocessing time by ~50% with same-day turnaround on game data
+- Built dashboards tracking 30+ in-game variables and predictive models across 3+ seasons that directly influenced lineup decisions and defensive alignments for a 40-man roster
 
-### **Hyperspace Ventures – Software Engineer**
+### **Cohen Lab @ Duke School of Medicine – Research Assistant** *(Apr 2025 – Present)*
 
-- Shipped full-stack features on AWS-hosted infrastructure for a live healthcare platform
-- A/B tested across 2,000+ users to drive measurable engagement improvements
+- Architected ML pipelines in Python and R processing 10M+ genetic variants from NIH All of Us, reducing per-cohort analysis runtime from ~8 hours to under 90 minutes
+- Designed an AI-based variant prioritization system across 500K+ patient records, flagging 200+ high-confidence at-risk individuals across 3+ disease cohorts for clinical follow-up
 
-### **Wasatch Photonics – Software Engineer**
+### **Hyperspace Ventures – Software Engineer** *(Jun – Aug 2025)*
 
-- Implemented SPI communication protocol in C for Airbus optical systems
-- Built real-time Python monitoring tools for optical performance diagnostics
+- Shipped full-stack features for a healthcare platform serving 2,000+ patients, reducing average task completion time by ~35% and patient drop-off rate by ~30% through A/B-tested navigation redesigns
+- Prototyped 5+ core product screens in Figma; ran 3-variant A/B experiments that increased session depth by ~25%
+
+### **Wasatch Photonics – Software Engineer** *(May – Aug 2024)*
+
+- Implemented SPI communication protocol in C for Airbus optical systems achieving sub-millisecond latency between spectrometer components and external control modules
+- Built a 1kHz real-time Python monitoring tool cutting average optical diagnostic time from ~20 minutes to under 5 minutes; reduced false-positive failure rates by ~20%
 
 ---
 
 ## 🛠️ Projects
 
-### **DocRAG – Research Assistant AI**
+### **DocRAG – Research Assistant AI** *(Jan 2026 – Present)*
 
-- Full-stack RAG-based agent using LangChain, ChromaDB, and OpenAI embeddings
-- Semantic search and conversational querying across 500+ academic documents with ~90% retrieval accuracy
+- Full-stack RAG agent ingesting 500+ academic papers using OpenAI embeddings and ChromaDB, reducing average literature search time from ~30 minutes to under 60 seconds
+- LangChain retrieval pipeline using cosine similarity ranking feeds top-k context into GPT-4, achieving ~90% relevance accuracy across 200+ test queries at ~$0.002 per document
 - **Stack:** Python · LangChain · ChromaDB · OpenAI API · React.js · FastAPI
 
-### **AI Tutoring Assistant**
+### **AI Tutoring Assistant** *(Jun – Sep 2025)*
 
-- Production AI agent deployed to real SAT tutoring students
-- Full-stack: React.js frontend · Python FastAPI backend · Java business logic layer
-- Features adaptive difficulty algorithm, student performance tracking, and agent evaluation frameworks
+- Production AI agent deployed to 8 SAT tutoring students over 3 months, achieving average score improvements of 80+ points through personalized question targeting
+- Generates 10+ unique question variants per topic with adaptive difficulty calibrated across 5+ skill dimensions using real-time rolling accuracy windows
 - **Stack:** React.js · Python · FastAPI · Java · OpenAI API · Claude API
 
 ---
