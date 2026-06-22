@@ -50,9 +50,13 @@ Outside of coding, I love playing chess and sports. I've been a lifelong tennis 
 
 ## 🎓 Education
 
-**Duke University**
-B.S. Computer Science and Mathematics · Minor in Finance · GPA 3.83 · Graduating May 2028
-National Merit Scholar · AIME Qualifier 2023–2025 · 2nd Place Nationally, Math Madness 2025 · Bloomberg Market Concepts Certified
+**Duke University** — Durham, NC
+*B.S. Computer Science and Mathematics · Minor in Finance · GPA: 3.83 · Graduating May 2028*
+
+- National Merit Scholar
+- AIME Qualifier 2023, 2024, 2025
+- 2nd Place Nationally, Math Madness 2025
+- Bloomberg Market Concepts Certified
 
 ---
 
