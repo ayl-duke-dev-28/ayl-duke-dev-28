@@ -17,8 +17,8 @@ I build production AI agents, ML pipelines, and full-stack systems. Rising junio
 
 ## 🌱 Currently Building & Learning
 
-- Multi-agent LLM pipeline for autonomous biological experiment design (Krenzer Lab)
-- LLM-powered knowledge assistants and security-hardened data infrastructure (Duke OIT)
+- Multi-agent LLM pipeline for autonomous biological experiment design 
+- LLM-powered knowledge assistants and security-hardened data infrastructure
 - Improving DocRAG retrieval accuracy and adding multi-document reasoning
 - Algorithmic trading platform with live paper execution and walk-forward backtesting
 
