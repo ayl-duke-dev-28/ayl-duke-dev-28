@@ -17,8 +17,8 @@ I build production AI agents, ML pipelines, and full-stack systems. Rising junio
 
 ## 🌱 Currently Building & Learning
 
-- Multi-agent LLM pipeline for autonomous biological experiment design 
-- LLM-powered knowledge assistants and security-hardened data infrastructure
+- Multi-agent LLM pipeline for autonomous biological experiment design (Krenzer Lab)
+- LLM-powered knowledge assistants and security-hardened data infrastructure (Duke OIT)
 - Improving DocRAG retrieval accuracy and adding multi-document reasoning
 - Algorithmic trading platform with live paper execution and walk-forward backtesting
 
@@ -61,6 +61,8 @@ Outside of coding, I love playing chess and sports. I've been a lifelong tennis 
 ---
 
 ## 💼 Experience
+
+### **Triomics – ML Engineer Intern** *(Jun 2026 – Present)*
 
 ### **Duke University OIT – Software Engineer** *(May 2026 – Present)*
 
