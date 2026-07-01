@@ -79,10 +79,6 @@ Outside of coding, I love playing chess and sports. I've been a lifelong tennis 
 - Identified 15+ security vulnerabilities and implemented AES-256 encryption, TLS, and RBAC across PostgreSQL/AWS infrastructure; configured MCP servers and agentic LLM toolchains using Claude Code daily
 - Deployed production systems on AWS via Docker with GitHub Actions CI/CD in Python, TypeScript, FastAPI, and React
 
-### **Duke Investment Club – Analyst** *(Sep 2025 – Present)*
-
-- Conduct fundamental and quantitative equity research across public companies, evaluating financial statements, valuation, market risk, credit risk, sector trends, and macroeconomic factors
-
 ### **Duke University Baseball – Data Analyst** *(Aug 2025 – Present)*
 
 - Built Python and SQL analytics pipelines (NumPy, pandas, SciPy, statsmodels) modeling 30+ variables across 3+ seasons of historical performance data
