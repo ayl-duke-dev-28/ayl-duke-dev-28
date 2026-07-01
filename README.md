@@ -19,6 +19,7 @@ I build production AI agents, ML pipelines, and full-stack systems. Rising junio
 
 - Multi-agent LLM pipeline for autonomous biological experiment design (Krenzer Lab)
 - LLM-powered knowledge assistants and security-hardened data infrastructure (Duke OIT)
+- AI/ML infrastructure for oncology workflows (Triomics)
 - Improving DocRAG retrieval accuracy and adding multi-document reasoning
 - Algorithmic trading platform with live paper execution and walk-forward backtesting
 
@@ -53,7 +54,7 @@ Outside of coding, I love playing chess and sports. I've been a lifelong tennis 
 **Duke University** — Durham, NC
 *B.S. Computer Science and Mathematics · Minor in Finance · GPA: 3.83 · Graduating May 2028*
 
-- National Merit Scholar
+- National Merit Scholar 2025
 - AIME Qualifier 2023, 2024, 2025
 - 2nd Place Nationally, Math Madness 2025
 - Bloomberg Market Concepts Certified
@@ -64,16 +65,19 @@ Outside of coding, I love playing chess and sports. I've been a lifelong tennis 
 
 ### **Triomics – ML Engineer Intern** *(Jun 2026 – Present)*
 
+- Building AI/ML infrastructure for oncology workflows; working on production systems at the intersection of large language models and clinical data
+- Stack: Python, LLMs, clinical data pipelines
+
 ### **Duke University OIT – Software Engineer** *(May 2026 – Present)*
 
 - Built a deployable RAG chatbot platform for Duke research labs that ingests papers, protocols, and internal documents into secure, lab-specific AI assistants with configurable access controls and multi-environment deployment
 - Identified 15+ security vulnerabilities and implemented AES-256 encryption, TLS, and RBAC across PostgreSQL/AWS infrastructure; configured MCP servers and agentic LLM toolchains using Claude Code daily
 - Deployed production systems on AWS via Docker with GitHub Actions CI/CD in Python, TypeScript, FastAPI, and React
 
-### **Krenzer Lab @ Duke University School of Medicine – Research Assistant** *(Apr 2026 – Present)*
+### **Krenzer Lab @ Duke Sanford School of Public Policy – Research Assistant** *(Apr 2026 – Present)*
 
-- Built a 6-stage multi-agent LLM pipeline from scratch in Python and LangChain that autonomously designs and runs biological experiments by pulling from existing experimental data and scientific literature
-- Reduced experiment cycle time from weeks to minutes through end-to-end agentic workflow automation; designed evaluation frameworks to benchmark output quality across pipeline stages
+- Built a multi-agent LLM pipeline from scratch that autonomously designs and executes biological experiments by pulling from existing experimental data and scientific literature -- reducing experiment cycle time from weeks to minutes
+- Designed agent coordination layer, tool-use interfaces, and evaluation frameworks to benchmark output quality across pipeline stages; stack: Python, LangChain, Anthropic API, multi-agent orchestration
 
 ### **Duke University Baseball – Data Analyst** *(Aug 2025 – Present)*
 
@@ -82,12 +86,12 @@ Outside of coding, I love playing chess and sports. I've been a lifelong tennis 
 
 ### **Cohen Lab @ Duke School of Medicine – Research Assistant** *(Apr 2025 – Jun 2026)*
 
-- Built ML pipelines in Python and Java processing 10M+ NIH All of Us records across 500K+ patients and 3+ disease cohorts; reduced per-cohort runtime from ~8 hours to under 90 minutes
+- Built ML pipelines in Python and Java processing 10M+ NIH records across 500K+ patients and 3+ disease cohorts; reduced per-cohort runtime from ~8 hours to under 90 minutes
 - Designed classification models for patient cohort analysis flagging high-confidence at-risk individuals for clinical follow-up
 
 ### **Hyperspace Ventures – Software Engineer Intern** *(Jun – Aug 2025)*
 
-- Shipped full-stack features for a healthcare SaaS platform serving 2,000+ users in TypeScript, React, and Node.js
+- Shipped full-stack features for a SaaS platform serving 2,000+ users in TypeScript, React, and Node.js
 - Reduced average task completion time by ~35% and drop-off rate by ~30% through A/B-tested navigation redesigns
 
 ### **Wasatch Photonics – Software Engineer Intern** *(May – Aug 2024)*
@@ -108,7 +112,7 @@ Outside of coding, I love playing chess and sports. I've been a lifelong tennis 
 ### **Trader Bot – Algorithmic Trading Platform** *(Mar 2026 – Present)*
 
 - Built an end-to-end systematic trading system with XGBoost ML models for signal generation, live order execution via Alpaca REST API, and a walk-forward backtesting framework for strategy validation
-- Implemented risk controls (position limits, stop-losses, kill switch) and tracks CAGR, Sharpe ratio, and drawdown metrics; deployed via Docker on AWS on paper trading
+- Implemented risk controls (position limits, stop-losses, kill switch) and tracks CAGR, Sharpe ratio, and drawdown metrics; deployed via Docker on paper trading only -- no live capital
 - **Stack:** Python · XGBoost · Alpaca API · pandas · NumPy · Docker · AWS
 
 ---
