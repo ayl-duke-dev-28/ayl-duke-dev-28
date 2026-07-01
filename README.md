@@ -89,12 +89,12 @@ Outside of coding, I love playing chess and sports. I've been a lifelong tennis 
 - Built ML pipelines in Python and Java processing 10M+ NIH records across 500K+ patients and 3+ disease cohorts; reduced per-cohort runtime from ~8 hours to under 90 minutes
 - Designed classification models for patient cohort analysis flagging high-confidence at-risk individuals for clinical follow-up
 
-### **Hyperspace Ventures – Software Engineer Intern** *(Jun 2025 – Aug 2025)*
+### **Hyperspace Ventures – Software Engineer Intern** *(Jun 2024 – Aug 2024)*
 
 - Shipped full-stack features for a SaaS platform serving 2,000+ users in TypeScript, React, and Node.js
 - Reduced average task completion time by ~35% and drop-off rate by ~30% through A/B-tested navigation redesigns
 
-### **Wasatch Photonics – Software Engineer Intern** *(May 2024 – Aug 2024)*
+### **Wasatch Photonics – Software Engineer Intern** *(May 2023 – Jun 2023)*
 
 - Implemented SPI communication protocol in C and C++ for Airbus optical systems achieving sub-millisecond latency between spectrometer components and external control modules
 - Built real-time Python monitoring and data pipelines for spectrometer output processing
