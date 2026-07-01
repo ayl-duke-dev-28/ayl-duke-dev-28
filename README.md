@@ -18,8 +18,8 @@ I build production AI agents, ML pipelines, and full-stack systems. Rising junio
 ## 🌱 Currently Building & Learning
 
 - AI/ML infrastructure for oncology clinical trial matching (Triomics)
-- Multi-agent LLM pipeline for autonomous biological experiment design (Krenzer Lab)
-- LLM-powered knowledge assistants and security-hardened data infrastructure (Duke OIT)
+- Multi-agent LLM pipeline for autonomous biological experiment design (Hickey Lab)
+- LLM-powered knowledge assistants and security-hardened data infrastructure (Krenzer Lab)
 - Improving DocRAG retrieval accuracy and adding multi-document reasoning
 - Algorithmic trading platform with live paper execution and walk-forward backtesting
 
@@ -68,16 +68,20 @@ Outside of coding, I love playing chess and sports. I've been a lifelong tennis 
 - Redesigned the core cancer-patient-to-clinical-trial matching pipeline in Python and FastAPI, replacing a brute-force inclusion/exclusion criteria evaluation with a decision-tree routing structure that reduces per-patient compute from O(patients × trials) to a single tree traversal
 - Built an LLM-based extraction pipeline to parse unstructured clinical notes, pathology reports, and lab results into structured, schema-validated patient profiles using Pydantic; enabling downstream matching logic to operate on clean, typed data rather than raw clinical text
 
-### **Duke University OIT – Software Engineer** *(May 2026 – Present)*
+### **Hickey Lab @ Duke School of Medicine – Research Assistant** *(May 2026 – Present)*
+
+- Built a multi-agent LLM pipeline from scratch that autonomously designs and executes biological experiments by pulling from existing experimental data and scientific literature -- reducing experiment cycle time from weeks to minutes
+- Designed agent coordination layer, tool-use interfaces, and evaluation frameworks to benchmark output quality across pipeline stages; stack: Python, LangChain, Anthropic API, multi-agent orchestration
+
+### **Krenzer Lab @ Duke Sanford School of Public Policy – Software Engineer** *(Apr 2026 – Present)*
 
 - Built a deployable RAG chatbot platform for Duke research labs that ingests papers, protocols, and internal documents into secure, lab-specific AI assistants with configurable access controls and multi-environment deployment
 - Identified 15+ security vulnerabilities and implemented AES-256 encryption, TLS, and RBAC across PostgreSQL/AWS infrastructure; configured MCP servers and agentic LLM toolchains using Claude Code daily
 - Deployed production systems on AWS via Docker with GitHub Actions CI/CD in Python, TypeScript, FastAPI, and React
 
-### **Krenzer Lab @ Duke Sanford School of Public Policy – Research Assistant** *(Apr 2026 – Present)*
+### **Duke Investment Club – Analyst** *(Sep 2025 – Present)*
 
-- Built a multi-agent LLM pipeline from scratch that autonomously designs and executes biological experiments by pulling from existing experimental data and scientific literature -- reducing experiment cycle time from weeks to minutes
-- Designed agent coordination layer, tool-use interfaces, and evaluation frameworks to benchmark output quality across pipeline stages; stack: Python, LangChain, Anthropic API, multi-agent orchestration
+- Conduct fundamental and quantitative equity research across public companies, evaluating financial statements, valuation, market risk, credit risk, sector trends, and macroeconomic factors
 
 ### **Duke University Baseball – Data Analyst** *(Aug 2025 – Present)*
 
@@ -114,6 +118,11 @@ Outside of coding, I love playing chess and sports. I've been a lifelong tennis 
 - Built an end-to-end systematic trading system with XGBoost ML models for signal generation, live order execution via Alpaca REST API, and a walk-forward backtesting framework for strategy validation
 - Implemented risk controls (position limits, stop-losses, kill switch) and tracks CAGR, Sharpe ratio, and drawdown metrics; paper trading only -- no live capital deployed
 - **Stack:** Python · XGBoost · Alpaca API · pandas · NumPy · Docker · AWS
+
+### **Tutoring Assistant – AI-Powered SAT Prep** *(Jun 2025 – Sep 2025)*
+
+- Built a full-stack AI-powered tutoring application with a React.js frontend, Python (FastAPI) backend, and Java-based business logic layer, integrating OpenAI's API to generate unique question variants with adaptive difficulty calibration
+- Deployed to 8 SAT tutoring students over 3 months, achieving average score improvements of 80+ points through personalized question targeting and feedback loops
 
 ---
 
