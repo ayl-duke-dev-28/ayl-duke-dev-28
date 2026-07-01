@@ -17,9 +17,9 @@ I build production AI agents, ML pipelines, and full-stack systems. Rising junio
 
 ## 🌱 Currently Building & Learning
 
+- AI/ML infrastructure for oncology clinical trial matching (Triomics)
 - Multi-agent LLM pipeline for autonomous biological experiment design (Krenzer Lab)
 - LLM-powered knowledge assistants and security-hardened data infrastructure (Duke OIT)
-- AI/ML infrastructure for oncology workflows (Triomics)
 - Improving DocRAG retrieval accuracy and adding multi-document reasoning
 - Algorithmic trading platform with live paper execution and walk-forward backtesting
 
@@ -65,8 +65,8 @@ Outside of coding, I love playing chess and sports. I've been a lifelong tennis 
 
 ### **Triomics – ML Engineer Intern** *(Jun 2026 – Present)*
 
-- Building AI/ML infrastructure for oncology workflows; working on production systems at the intersection of large language models and clinical data
-- Stack: Python, LLMs, clinical data pipelines
+- Redesigned the core cancer-patient-to-clinical-trial matching pipeline in Python and FastAPI, replacing a brute-force inclusion/exclusion criteria evaluation with a decision-tree routing structure that reduces per-patient compute from O(patients × trials) to a single tree traversal
+- Built an LLM-based extraction pipeline to parse unstructured clinical notes, pathology reports, and lab results into structured, schema-validated patient profiles using Pydantic; enabling downstream matching logic to operate on clean, typed data rather than raw clinical text
 
 ### **Duke University OIT – Software Engineer** *(May 2026 – Present)*
 
@@ -89,12 +89,12 @@ Outside of coding, I love playing chess and sports. I've been a lifelong tennis 
 - Built ML pipelines in Python and Java processing 10M+ NIH records across 500K+ patients and 3+ disease cohorts; reduced per-cohort runtime from ~8 hours to under 90 minutes
 - Designed classification models for patient cohort analysis flagging high-confidence at-risk individuals for clinical follow-up
 
-### **Hyperspace Ventures – Software Engineer Intern** *(Jun – Aug 2025)*
+### **Hyperspace Ventures – Software Engineer Intern** *(Jun 2025 – Aug 2025)*
 
 - Shipped full-stack features for a SaaS platform serving 2,000+ users in TypeScript, React, and Node.js
 - Reduced average task completion time by ~35% and drop-off rate by ~30% through A/B-tested navigation redesigns
 
-### **Wasatch Photonics – Software Engineer Intern** *(May – Aug 2024)*
+### **Wasatch Photonics – Software Engineer Intern** *(May 2024 – Aug 2024)*
 
 - Implemented SPI communication protocol in C and C++ for Airbus optical systems achieving sub-millisecond latency between spectrometer components and external control modules
 - Built real-time Python monitoring and data pipelines for spectrometer output processing
@@ -112,7 +112,7 @@ Outside of coding, I love playing chess and sports. I've been a lifelong tennis 
 ### **Trader Bot – Algorithmic Trading Platform** *(Mar 2026 – Present)*
 
 - Built an end-to-end systematic trading system with XGBoost ML models for signal generation, live order execution via Alpaca REST API, and a walk-forward backtesting framework for strategy validation
-- Implemented risk controls (position limits, stop-losses, kill switch) and tracks CAGR, Sharpe ratio, and drawdown metrics; deployed via Docker on paper trading only -- no live capital
+- Implemented risk controls (position limits, stop-losses, kill switch) and tracks CAGR, Sharpe ratio, and drawdown metrics; paper trading only -- no live capital deployed
 - **Stack:** Python · XGBoost · Alpaca API · pandas · NumPy · Docker · AWS
 
 ---
