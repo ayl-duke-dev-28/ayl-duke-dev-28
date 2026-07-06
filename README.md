@@ -115,6 +115,13 @@ Outside of coding, I love playing chess and sports. I've been a lifelong tennis 
 - Implemented risk controls (position limits, stop-losses, kill switch) and tracks CAGR, Sharpe ratio, and drawdown metrics; paper trading only -- no live capital deployed
 - **Stack:** Python · XGBoost · Alpaca API · pandas · NumPy · Docker · AWS
 
+### **Incident Response Bot – AI-Driven Production Triage** *(Jun 2026 – Present)*
+
+- Built an AI-driven incident response system that triages production alerts via three parallel agents -- commit-blame ranking (matches recent commits against alert signals), runbook matching (maps alerts to markdown playbooks), and user-impact estimation
+- Designed a provider-agnostic integration layer with mock and real implementations behind shared interfaces for GitHub, Slack, and Datadog, enabling fully offline testing; orchestrated with asyncio, webhook-triggered on incoming alerts from monitoring tools
+- Auto-generates blameless post-mortems posted back to originating Slack threads; FastAPI backend with SQLite persistence and Pydantic domain models
+- **Stack:** Python · FastAPI · Anthropic API · SQLite · Pydantic · asyncio · pytest
+
 ### **Tutoring Assistant – AI-Powered SAT Prep** *(Jun 2025 – Sep 2025)*
 
 - Built a full-stack AI-powered tutoring application with a React.js frontend, Python (FastAPI) backend, and Java-based business logic layer, integrating OpenAI's API to generate unique question variants with adaptive difficulty calibration
