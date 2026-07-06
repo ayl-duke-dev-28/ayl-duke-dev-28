@@ -72,7 +72,7 @@ Outside of coding, I love playing chess and sports. I've been a lifelong tennis 
 - Built a multi-agent LLM pipeline from scratch that autonomously designs and executes biological experiments by pulling from existing experimental data and scientific literature -- reducing experiment cycle time from weeks to minutes
 - Designed agent coordination layer, tool-use interfaces, and evaluation frameworks to benchmark output quality across pipeline stages; stack: Python, LangChain, Anthropic API, multi-agent orchestration
 
-### **Krenzer Lab @ Duke Sanford School of Public Policy – Software Engineer** *(Apr 2026 – Present)*
+### **Krenzer Lab @ Duke Sanford School of Public Policy – Research Assistant** *(Apr 2026 – Present)*
 
 - Built a deployable RAG chatbot platform for Duke research labs that ingests papers, protocols, and internal documents into secure, lab-specific AI assistants with configurable access controls and multi-environment deployment
 - Identified 15+ security vulnerabilities and implemented AES-256 encryption, TLS, and RBAC across PostgreSQL/AWS infrastructure; configured MCP servers and agentic LLM toolchains using Claude Code daily
