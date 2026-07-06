@@ -37,7 +37,6 @@ I build production AI agents, ML pipelines, and full-stack systems. Rising junio
 
 - **Email:** ayliu.636@gmail.com
 - **LinkedIn:** [linkedin.com/in/alexliu22](https://www.linkedin.com/in/alexliu22/)
-- **GitHub:** [github.com/ayl-duke-dev-28](https://github.com/ayl-duke-dev-28)
 
 ---
 
