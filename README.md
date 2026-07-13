@@ -82,8 +82,7 @@
   profiles using Pydantic; enabling downstream matching logic to operate on clean,
   typed data rather than raw clinical text
 
-  ### **Hickey Lab @ Duke School of Medicine – Research Assistant** *(May 2026 –
-  Present)*
+  ### **Hickey Lab @ Duke School of Medicine – Research Assistant** *(May 2026 – Present)*
 
   - Built a multi-agent LLM pipeline from scratch that autonomously designs and
   executes biological experiments by pulling from existing experimental data and
@@ -92,8 +91,7 @@
   frameworks to benchmark output quality across pipeline stages; stack: Python,
   LangChain, Anthropic API, multi-agent orchestration
 
-  ### **Krenzer Lab @ Duke Sanford School of Public Policy – Research Assistant**
-  *(Apr 2026 – Present)*
+  ### **Krenzer Lab @ Duke Sanford School of Public Policy – Research Assistant** *(Apr 2026 – Present)*
 
   - Built a deployable RAG chatbot platform for Duke research labs that ingests
   papers, protocols, and internal documents into secure, lab-specific AI
@@ -111,8 +109,7 @@
   - Developed predictive models and dashboards that directly influenced lineup
   decisions and defensive alignments for coaching staff
 
-  ### **Cohen Lab @ Duke School of Medicine – Research Assistant** *(Apr 2025 –
-  Jun 2026)*
+  ### **Cohen Lab @ Duke School of Medicine – Research Assistant** *(Apr 2025 – Jun 2026)*
 
   - Built ML pipelines in Python and Java processing 10M+ NIH records across 500K+
   patients and 3+ disease cohorts; reduced per-cohort runtime from ~8 hours to
@@ -139,8 +136,7 @@
 
   ## 🛠️ Projects
 
-  ### **LabGraph – Multi-Source Knowledge-Graph RAG for Research Labs** *(Jan 2026
-  – Present)*
+  ### **LabGraph – Multi-Source Knowledge-Graph RAG for Research Labs** *(Jan 2026 – Present)*
 
   - Rebuilding DocRAG from a single-source RAG assistant into LabGraph, a multi-
   source knowledge-graph RAG system that answers multi-hop research questions
@@ -165,8 +161,7 @@
   capital deployed
   - **Stack:** Python · XGBoost · Alpaca API · pandas · NumPy · Docker · AWS
 
-  ### **Incident Response Bot – AI-Driven Production Triage** *(Jun 2026 –
-  Present)*
+  ### **Incident Response Bot – AI-Driven Production Triage** *(Jun 2026 – Present)*
 
   - Built an AI-driven incident response system that triages production alerts via
   three parallel agents -- commit-blame ranking (matches recent commits against
