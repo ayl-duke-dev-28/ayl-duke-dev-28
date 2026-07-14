@@ -4,8 +4,7 @@
   junior at Duke University studying Computer Science and Mathematics, with
   research across three Duke labs and real deployed projects with real users.
 
-  ### 🔗 [linkedin.com/in/alexliu22](https://www.linkedin.com/in/alexliu22/) ·
-  [ayliu.636@gmail.com](mailto:ayliu.636@gmail.com)
+  ### 🔗 [linkedin.com/in/alexliu22](https://www.linkedin.com/in/alexliu22/) · [ayliu.636@gmail.com](mailto:ayliu.636@gmail.com)
 
   ---
 
