@@ -135,8 +135,8 @@
 
   ## 🛠️ Projects
 
-  ### **LabGraph – Multi-Source Knowledge-Graph RAG for Research Labs** *(Jan 2026 – Present)*
-
+  ### **LabGraph (prev. DocRAG) – Multi-Source Knowledge-Graph RAG for Research Labs** *(Jan 2026 – Present)*
+  *Currently Private*
   - Rebuilding DocRAG from a single-source RAG assistant into LabGraph, a multi-
   source knowledge-graph RAG system that answers multi-hop research questions
   across papers, meeting notes, and lab documents with visible graph-traversal
@@ -151,7 +151,7 @@
   pytest · Docker · GitHub Actions
 
   ### **Trader Bot – Algorithmic Trading Platform** *(Mar 2026 – Present)*
-
+  *Currently Private*
   - Built an end-to-end systematic trading system with XGBoost ML models for
   signal generation, live order execution via Alpaca REST API, and a walk-forward
   backtesting framework for strategy validation
