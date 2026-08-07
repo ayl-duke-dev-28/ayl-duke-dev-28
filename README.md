@@ -55,7 +55,7 @@ Outside of coding, I love playing chess and sports. I've been a lifelong tennis 
 
 - National Merit Scholar 2025
 - AIME Qualifier 2023, 2024, 2025
-- 2nd Place Nationally, Math Madness 2025
+- Math Madness 2025 -- Ranked 2nd Nationally, Placed Top 16
 
 ---
 
