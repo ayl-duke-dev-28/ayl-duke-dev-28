@@ -1,1 +1,1 @@
-Everything -> https://ayl-duke-dev-28.github.io/
+I'm Alex, a student at Duke studying Computer Science and Mathematics. I currently work on ML systems for oncology clinical-trial matching at Triomics, and on RAG knowledge assistants and security-hardened data infrastructure at the Krenzer Lab at Duke. On the side, I'm building an autonomous incident-response agent that triages production alerts and writes blameless post-mortems.
