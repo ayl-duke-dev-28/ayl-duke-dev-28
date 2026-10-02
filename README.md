@@ -11,5 +11,3 @@ Projects I've worked on include, but are not limited to:
 - An autonomous incident response for failures in production
 - An autonomous equities trading bot (sharpe = 1.15)
 - A stock screener for quantitative research purposes and generating alpha for my trading bot
-
-To learn more, visit alex-liu.dev
