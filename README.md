@@ -1,1 +1,1 @@
-I'm Alex, a student at Duke studying Computer Science and Mathematics. I currently work as a software engineer at Intel, where I build and optimize agentic workflows. On the side, I'm building an autonomous incident-response agent that triages production alerts and writes blameless post-mortems, along with a Monte Carlo options-pricing model.
+Hi, I'm Alex. I study Computer Science and Mathematics at Duke. I'm interested in AI/ML, high-performance systems, and healthtech.
