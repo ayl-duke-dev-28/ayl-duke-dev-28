@@ -6,7 +6,6 @@ I am currently working on:
 
 Projects I've worked on include, but are not limited to:
 - DocRAG, an AI Research Assistant
-- A multi-agent LLM to run biological simulations
 - A system that matches cancer patient to clinical trials, used across 4 of the top 10 cancer hospitals in the US
 - An autonomous incident response for failures in production
 - An autonomous equities trading bot (sharpe = 1.15)
