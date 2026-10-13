@@ -1,8 +1,7 @@
-Hi, I'm Alex. I study Computer Science and Mathematics at Duke. I'm interested in AI/ML, high-performance systems, and healthtech.
+Hi, I'm Alex. I study Computer Science and Mathematics at Duke. I'm interested in machine learning and high performance systems as well as markets and macroeconomic policy.
 
 I am currently working on:
 - A custom GPU attention kernel in CUDA
-- An options pricing and Greeks engine in C++
 
 Projects I've worked on include, but are not limited to:
 - DocRAG, an AI Research Assistant
